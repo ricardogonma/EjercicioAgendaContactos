@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EjercicioAgendaContactos</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ct_nombre">Nombre</string>
+    <string name="ct_numero">Número</string>
+    <string name="ct_bt_aniadir">Añadir</string>
+    <string name="ct_guardar">Seleccione dónde guardar al usuario</string>
+    <string name="ct_mem_ext_priv">Memoria externa privada</string>
+    <string name="ct_mem_int_priv">Memoria interna privada</string>
+    <string name="ct_aniadir">Añadir contacto</string>
+
+    <string name="dialog_aceptar">Aceptar</string>
+    <string name="dialog_msg_contacts">Los permisos de lectura de contactos son necesarios</string>
+    <string name="dialog_msg_mem">Los permisos de lectura de memoria son necesarios</string>
+
+    <string name="errorVacio">El campo no puede estar vacio</string>
+    <string name="repetido">Ya existe un usuario con ese nombre</string>
+</resources>
